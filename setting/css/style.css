@@ -1,0 +1,27 @@
+.jimu-widget-ListviewDemo-setting > * {
+  margin-bottom: 10px;
+}
+
+.jimu-widget-ListviewDemo-setting label {
+  display: inline-block;
+  min-width: 150px;
+  margin-right: 10px;
+}
+.jimu-widget-ListviewDemo-setting h3 {
+  color: #999;
+  font-weight: normal;
+  margin-bottom: 20px;
+}
+.jimu-widget-ListviewDemo-setting hr {
+  margin: 30px 0;
+  border-style: solid;
+  border-width: 0 0 1px 0;
+  border-color: #ddd;
+}
+.jimu-widget-ListviewDemo-setting .jimu-input,
+.jimu-widget-ListviewDemo-setting .dijitSelect {
+  width: 300px;
+}
+.jimu-widget-ListviewDemo-setting .dijitSelect .dijitButtonContents {
+  width: 100%;
+}
